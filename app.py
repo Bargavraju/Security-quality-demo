@@ -1,5 +1,5 @@
 import os
-secret_key = "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY"
+secret_key = "wJalrXUtnFEMI/K7MDENG/bPxRfiCY"
 def main():
     api_key = os.getenv("API_KEY")
     if not api_key:
