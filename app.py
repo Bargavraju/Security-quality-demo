@@ -1,5 +1,5 @@
 import os
-secret = "op7w.;aod.so["
+secret = "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY"
 def main():
     api_key = os.getenv("API_KEY")
     if not api_key:
